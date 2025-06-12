@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 359 140">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-6 {
+        fill: #50a6d6;
+      }
+
+      .cls-7 {
+        fill: #fad03b;
+      }
+
+      .cls-8 {
+        fill: #a3c754;
+      }
+
+      .cls-9 {
+        fill: #b1629c;
+      }
+
+      .cls-10 {
+        font-family: ParisineTryNarrSombre-Regular, 'Parisine Try Narr Sombre';
+        font-size: 80px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        font-family: Arial-Black, Arial;
+        font-size: 9px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <path class="cls-9" d="M67.95,37.49c6.67-2.18,11.36-8.57,11.05-15.92-.37-8.86-7.85-15.73-16.71-15.36s-15.73,7.85-15.36,16.71c.31,7.35,5.52,13.32,12.35,14.94l-11.84.5,17.38,27.96,14.98-29.32-11.84.5Z"/>
+  <path class="cls-8" d="M41.81,48.67c1.6-6.83-1.42-14.16-7.86-17.71-7.76-4.28-17.52-1.46-21.81,6.3s-1.46,17.52,6.3,21.81c6.44,3.55,14.25,2.2,19.17-2.8l-5.73,10.38,32.92-.34-17.28-28.03-5.73,10.38Z"/>
+  <path class="cls-7" d="M37.79,76.81c-5-4.91-12.84-6.14-19.22-2.48-7.69,4.41-10.35,14.22-5.94,21.91,4.41,7.69,14.22,10.35,21.91,5.94,6.38-3.66,9.28-11.04,7.57-17.84l5.9,10.28,16.81-28.31-32.92.21,5.9,10.28Z"/>
+  <path class="cls-6" d="M59.75,94.86c-6.8,1.72-11.91,7.78-12.09,15.14-.22,8.86,6.78,16.23,15.64,16.45,8.86.22,16.23-6.78,16.45-15.64.19-7.36-4.61-13.66-11.32-15.73l11.85.3-15.47-29.06-16.91,28.25,11.85.3Z"/>
+  <text class="cls-10" transform="translate(79.8 96.47)"><tspan class="cls-2" x="0" y="0">E</tspan><tspan class="cls-3" x="40.8" y="0">D</tspan><tspan class="cls-2" x="97.84" y="0">CESS</tspan></text>
+  <text class="cls-12" transform="translate(86.12 110.75)"><tspan class="cls-11" x="0" y="0">EMPRENDIMIEN</tspan><tspan class="cls-4" x="75.75" y="0">T</tspan><tspan class="cls-1" x="81.67" y="0">O</tspan><tspan class="cls-11" x="88.74" y="0">, DESAR</tspan><tspan class="cls-1" x="126.85" y="0">R</tspan><tspan class="cls-11" x="133.43" y="0">OL</tspan><tspan class="cls-1" x="146.39" y="0">L</tspan><tspan class="cls-11" x="151.97" y="0">O Y COMPETITIVI</tspan><tspan class="cls-5" x="234.92" y="0">D</tspan><tspan class="cls-11" x="241.26" y="0">AD</tspan><tspan class="cls-11" x="40.1" y="12">CON ENFOQUE SOLI</tspan><tspan class="cls-5" x="136.27" y="12">D</tspan><tspan class="cls-11" x="142.62" y="12">ARIO Y SOCIAL</tspan></text>
+</svg>
